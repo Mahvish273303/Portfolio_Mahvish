@@ -1,0 +1,14 @@
+RESUME PLACEHOLDER
+==================
+Place your actual resume PDF file here as:
+  frontend/public/resume.pdf
+
+The "Download Resume" button in the Hero section is already configured to
+download this file using:
+  <a href="/resume.pdf" download="Mahvish_Pathan_Resume.pdf">
+
+Steps:
+1. Export your resume as a PDF
+2. Rename it to: resume.pdf
+3. Copy it to this folder: frontend/public/
+4. The download button will work automatically
